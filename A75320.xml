@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the late actions at sea, between the Saint Alban's and the Happy Return, two of Their Majesties men of war, and twenty four sail of French ships with their convoy of 36 guns, near the port of Cherbourg : with an account of the sinking the convoy, [sic] and taking twenty sail of merchant men : in a letter from a merchant at Plymouth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75320</idno>
+            <idno type="STC">Wing A306AB</idno>
+            <idno type="STC">ESTC R173149</idno>
+            <idno type="EEBO-CITATION">43077440</idno>
+            <idno type="OCLC">ocm 43077440</idno>
+            <idno type="VID">151499</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75320)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151499)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2261:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the late actions at sea, between the Saint Alban's and the Happy Return, two of Their Majesties men of war, and twenty four sail of French ships with their convoy of 36 guns, near the port of Cherbourg : with an account of the sinking the convoy, [sic] and taking twenty sail of merchant men : in a letter from a merchant at Plymouth.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Hayhurst in Little Britain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Saint Alban's (Ship)</term>
+               <term>Happy Return (Sloop)</term>
+               <term>Grand Alliance, War of the, 1689-1697 --  Naval operations.</term>
+               <term>Europe --  History --  1648-1715.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:151499:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 14 -->
+            <head>An Account of the Late Actions at Sea, BETWEEN THE Saint Alban's and Happy Return, Two of Their Majeſties Men of VVar, and Twenty Four Sail of French Ships, VVith their Convoy of 36 Guns, near the Port of <hi>Cherbourg;</hi> with an Account of the Sinking the Convoy, and taking Twenty Sail of Merchant Men. <date>
+                  <add>18. Febr. 1690/1.</add>
+               </date>
+            </head>
+            <head type="sub">In a Letter from a Merchant at <hi>Plymouth.</hi>
+            </head>
+            <argument>
+               <p>LICENSED, <date>Feb. 17.</date> J. F. According to Order.</p>
+            </argument>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ON <hi>Wedneſday</hi> laſt a <hi>Dutch</hi> Privateer of <hi>Friezland,</hi> called the <hi>Prince,</hi> of Eigh<g ref="char:EOLhyphen"/>teen Guns and Twelve Peteraroes, brought in here a <hi>French</hi> Prize, which ſhe took out of a Fleet of Twenty Four Sail of Merchant-Men, Bound for <hi>Havre de Grace</hi> to <hi>Nantce, Bourdeaux,</hi> and ſeveral other Ports a<g ref="char:EOLhyphen"/>bout <hi>
+                  <g ref="char:V">Ʋ</g>ſhant,</hi> they Sail'd out of the Port of <hi>Havre de Grace,</hi> on <hi>Monday</hi> laſt. The Captain of the Privateer ſays, That juſt as he came away he ſaw the <hi>Saint Albans,</hi> and the <hi>Happy Return,</hi> Two of Their Majeſties Men of War, falling in with the ſaid Fleet. And Yeſterday Arriv'd here a Fly-Boat of Two Hundred and Fifty Tuns, and Thirty Five Men, Taken by the <hi>Hap<g ref="char:EOLhyphen"/>py Return:</hi> They give an Account, That the <hi>Saint Alban</hi>'s was Engaged about Two hours with the <hi>French</hi> Con<g ref="char:EOLhyphen"/>voy, a Man of War of Thirty Six Guns; That a ſhort time after the <hi>Saint Alban</hi>'s had Shot down her Main-Maſt, and brought her on Board; the Man of War ran a Shore, and there Stranded a little after; having between five and ſix Foot of Water in the hold, but moſt of the Seamen were Sav'd: That at the ſame time that the <hi>Saint Alban</hi>'s was Engaged with the Man of War, the <hi>Happy Return</hi> fell in among the Merchant-Men, that they did not doubt but they had Taken moſt of them.</p>
+            <div type="postscript">
+               <p>
+                  <hi>P. S.</hi> Juſt now a Veſſel is come in here from the Fleet, and brings an ac<g ref="char:EOLhyphen"/>count, That Their Majeſties Ships had Taken Eighteen Sail more, there being but Four Ships of the whole Fleet eſcaping. The Ships in general are from an Hundred to Three Hun<g ref="char:EOLhyphen"/>dred Tun Burthen; and notwithſtand<g ref="char:EOLhyphen"/>ing they had no Loading but Ballaſt, (they going to fetch <hi>Wines, Brandies,</hi> &amp;c.) yet the Maſters of the Veſſels, Merchants, Factors, and between Five or Six Hundred Seamen, that were on Board the Fleet and Convoy, are of no ſmall Value, and will prove very ad<g ref="char:EOLhyphen"/>vantagious to Their Majeſties Service; for by the Exchange of theſe Priſoners, we may have as many <hi>Engliſh</hi> Seamen as will Man out Four of Their Majeſties Fourth Rate Men of War, being in<g ref="char:EOLhyphen"/>termixt with ſome Land-Men; be<g ref="char:EOLhyphen"/>ſides the Twenty Sail of Ships, with their Furniture, <hi>&amp;c.</hi> cannot be Va<g ref="char:EOLhyphen"/>lued at leſs than One Hundred Thou<g ref="char:EOLhyphen"/>ſand Livres.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Hayhurſt</hi> in <hi>Little-Brittain,</hi> 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
